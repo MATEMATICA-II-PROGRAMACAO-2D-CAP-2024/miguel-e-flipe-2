@@ -1,7 +1,3 @@
-
-        background-color: var(--botao-azul);
-        padding: 1em;
-  color: var(--branco-principal);
-         border-radius: 5px;
-         display: block;
+.oi{
+    background-color:#0087ff;
 }
